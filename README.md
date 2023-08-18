@@ -1,6 +1,10 @@
 # email-signature
 Email Signature file for gmail.
 
+Preview of the Email Signature
+
+![Previe of email Signature](img/preview.png)
+
 1. All the content related to email signature are in index.html
 2. style.css contains the styling of every element in html file
 
