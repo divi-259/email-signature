@@ -1,0 +1,38 @@
+table {
+    font-family: Helvetica, sans-serif;
+}
+.links {
+    text-decoration: none; 
+    padding: 0 4px;
+    color: #666666;
+}
+.icon {
+    width: 18px; height: 18px;
+}
+.leftcol {
+    font-family: inherit; line-height: 18px;  width: 260px; padding-top: 4px; padding-left: 0; text-align: center;
+}
+.td1 {
+    display: block; line-height: 1;
+}
+.td1 a {
+    font-weight: bold; font-family: inherit; color: #2d50c1; font-size: 14pt; text-decoration: none;
+}
+.td2 {
+    display: block; line-height: 1
+}
+.td2 a {
+    font-family: inherit; color:#666666; font-size: 10pt; text-decoration: none;
+}
+.divider {
+    height: 140px; border-left: thin solid #2d50c1; padding-right: 15px;
+}
+.subtd1 {
+    font-family: inherit; font-size: 9pt; padding-bottom: 6px; line-height: 18px; vertical-align: top; width: 250px;
+}
+.contact {
+    font-family: inherit; color: #2d50c1;
+}
+.contact a {
+    font-family: inherit; text-decoration: none; color: #666666;
+}
